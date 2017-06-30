@@ -184,7 +184,7 @@ body > section {
 
 .top-bar {
   padding: 10px 0;
-  background: #191919;
+  background: #2e2e2e;
   border-bottom: 1px solid #222;
   line-height: 28px;
 }
@@ -987,7 +987,7 @@ a.accordion-toggle  i{
   font-size: 40px;
   line-height: 60px;
   color: #fff;
-  background: #000;
+  background: #2e2e2e;
   text-align: center;
   border-radius: 10px;
 }
