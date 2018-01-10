@@ -130,18 +130,18 @@
 	bottom: 0;
 	left: 0;
 	margin: 0;
-	padding: 37px 31px 32px;
+	padding: 30px 30px 30px;
 	width: 100%;
 	background: #f8f7f8;
 	color: #4c404d;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
-	letter-spacing: 1px;
+	letter-spacing: 0px;
 	font-weight: 800;
-	font-size: 16px;
+	font-size: 17px;
 	-webkit-transition: -webkit-transform 0.2s, color 0.2s;
-	transition: transform 0.2s, color 0.2s;
-	line-height:27px;
+	transition: transform 0.1s, color 0.1s;
+	line-height:18px;
 	z-index:10;
 }
 .grid li h3 a{
