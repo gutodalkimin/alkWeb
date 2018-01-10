@@ -17,6 +17,11 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	background: url(../images/bg4.png) left top repeat;
+	zoom: 85%;
+
+
+	
+
 }
 .container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
 	margin-left: -10px;
