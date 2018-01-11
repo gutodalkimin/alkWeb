@@ -231,8 +231,8 @@
 
 /* Swipe rotate */
 .grid.swipe-rotate li.animate .curtain {
-	-webkit-animation: swipeRotate 1.5s ease forwards;
-	animation: swipeRotate 1.5s ease forwards;
+	-webkit-animation: swipeRotate 1.0s ease forwards;
+	animation: swipeRotate 1.0s ease forwards;
 }
 
 @-webkit-keyframes swipeRotate {
@@ -249,8 +249,8 @@
 
 /* Shadow */
 .grid li.animate .curtain::after {
-	-webkit-animation: fadeOut 1.5s ease forwards;
-	animation: fadeOut 1.5s ease forwards;
+	-webkit-animation: fadeOut 1.0s ease forwards;
+	animation: fadeOut 1.0s ease forwards;
 	-webkit-animation-delay: inherit;
 	animation-delay: inherit;
 }
@@ -276,8 +276,8 @@
 
 .grid li.animate img,
 .grid li.animate h3 {
-	-webkit-animation: showMe 1.5s step-end forwards;
-	animation: showMe 1.5s step-end forwards;
+	-webkit-animation: showMe 1.0s step-end forwards;
+	animation: showMe 1.0s step-end forwards;
 }
 
 @-webkit-keyframes showMe {
