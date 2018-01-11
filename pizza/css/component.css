@@ -174,8 +174,8 @@
 	border: 0px solid transparent;
 	background: rgba(0,0,0,0);
 	content: '';
-	-webkit-transition: border-width 0.2s, border-color 0.2s;
-	transition: border-width 0.2s, border-color 0.2s;
+	-webkit-transition: border-width 0.1s, border-color 0.1s;
+	transition: border-width 0.1s, border-color 0.1s;
 }
 
 /* Hover effects */
@@ -195,8 +195,8 @@
 
 /* Swipe right */
 .grid.swipe-right li.animate .curtain {
-	-webkit-animation: swipeRight 1.5s cubic-bezier(0.6,0,0.4,1) forwards;
-	animation: swipeRight 1.5s cubic-bezier(0.6,0,0.4,1) forwards;
+	-webkit-animation: swipeRight 0.5s cubic-bezier(0.6,0,0.4,1) forwards;
+	animation: swipeRight 0.5s cubic-bezier(0.6,0,0.4,1) forwards;
 }
 
 @-webkit-keyframes swipeRight {
@@ -213,8 +213,8 @@
 
 /* Swipe down */
 .grid.swipe-down li.animate .curtain {
-	-webkit-animation: swipeDown 1.5s cubic-bezier(0.6,0,0.4,1) forwards;
-	animation: swipeDown 1.5s cubic-bezier(0.6,0,0.4,1) forwards;
+	-webkit-animation: swipeDown 0.5s cubic-bezier(0.6,0,0.4,1) forwards;
+	animation: swipeDown 0.5s cubic-bezier(0.6,0,0.4,1) forwards;
 }
 
 @-webkit-keyframes swipeDown {
