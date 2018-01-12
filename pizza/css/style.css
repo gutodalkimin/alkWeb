@@ -17,10 +17,7 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	background: url(../images/bg4.png) left top repeat;
-
-
-	
-
+	zoom: 90%;
 }
 .embed-container { 
 	position: relative; 

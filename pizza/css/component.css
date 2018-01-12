@@ -6,7 +6,7 @@
 }
 
 .grid {
-	margin: 76px auto 62px;
+	margin: 30px auto 62px;
 	padding: 0;
 	list-style: none;
 	min-height: 500px;
@@ -195,8 +195,8 @@
 
 /* Swipe right */
 .grid.swipe-right li.animate .curtain {
-	-webkit-animation: swipeRight 0.5s cubic-bezier(0.6,0,0.4,1) forwards;
-	animation: swipeRight 0.5s cubic-bezier(0.6,0,0.4,1) forwards;
+	-webkit-animation: swipeRight 0.1s cubic-bezier(0.6,0,0.4,1) forwards;
+	animation: swipeRight 0.1s cubic-bezier(0.6,0,0.4,1) forwards;
 }
 
 @-webkit-keyframes swipeRight {
@@ -213,8 +213,8 @@
 
 /* Swipe down */
 .grid.swipe-down li.animate .curtain {
-	-webkit-animation: swipeDown 0.5s cubic-bezier(0.6,0,0.4,1) forwards;
-	animation: swipeDown 0.5s cubic-bezier(0.6,0,0.4,1) forwards;
+	-webkit-animation: swipeDown 0.1s cubic-bezier(0.6,0,0.4,1) forwards;
+	animation: swipeDown 0.1s cubic-bezier(0.6,0,0.4,1) forwards;
 }
 
 @-webkit-keyframes swipeDown {
